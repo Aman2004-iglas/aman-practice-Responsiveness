@@ -493,6 +493,8 @@ padding: 0px 10px;
 
         /* Footer Styles */
         footer {
+            left:0;
+            right:0;
             background: rgba(105, 192, 159, 0.4);
             backdrop-filter: blur(10px);
             padding: 60px 0 30px;
@@ -648,4 +650,5 @@ padding: 0px 10px;
             .subscribe-form {
                 flex-direction: column;
             }
+
         }
